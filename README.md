@@ -1,3 +1,2 @@
-# DSA
-Data Structures and Algorithms
+# Data Structures and Algorithms
 My simple realizations of the algorithms
